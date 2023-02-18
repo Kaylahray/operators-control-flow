@@ -2,49 +2,24 @@
 
 **a. Arithmetic Operators**
 
-1. -
-2. /
-3. %
-4. -
-5. -
-6. \*\*
+- +, /, %, -, \*, \*\*.
 
-   **b. Assignment Operators**
+  **b. Assignment Operators**
 
-7. =
-8. +=
-9. -=
-10. \*=
-11. /=
-12. %=
-13. ++
-14. --
+- =, +=, -=, \*=, /=, %=, ++, --.
 
-    **c. Comparison Operators**
+  **c. Comparison Operators**
 
-15. <
-16. >
-17. <=
-18. > =
-19. ==
-20. ===
-21. !==
-22. !=
+- <, >, <=, >=, ==, ===, !==, !=.
 
-**d. Logical Operators**
+  **d. Logical Operators**
 
-1. &&
-2. ||
-3. !
+- &&
+- ||
+- !
 
-**e. Bitwise Operators**
-
-1. &
-2. |
-3. ~
-4. ^
-5. <<
-6. > >
+- - **e. Bitwise Operators**
+- &, |, ~, ^, <<, >>.
 
 # Question 4: What is the result when the following program is executed?
 
