@@ -1,4 +1,4 @@
-# Question 1: List the symbols for each of the below JavaScript operators\*\*
+# Question 1: List the symbols for each of the below JavaScript operators
 
 **a. Arithmetic Operators**
 
@@ -22,7 +22,7 @@
 
 - &, |, ~, ^, <<, >>.
 
-# Question 2:
+# Question 2: For each javascript operator, write two (2) examples.
 
 **Example of Arithmetic operators**
 
