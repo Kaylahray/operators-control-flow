@@ -5,9 +5,9 @@ let socialScienceSubjects = "Accounting, Commerce, Marketing, Geography,";
 let artSubjects = " Government, Economics, Literature, History,";
 let generalSubjects = "English, Mathematics.";
 
-if (classGroup === "science") {
+if (classGroup === "Science") {
   console.log(scienceSubjects, generalSubjects);
-} else if (classGroup === "social") {
+} else if (classGroup === "Social science") {
   console.log(socialScienceSubjects, generalSubjects);
 } else if (classGroup === "Arts") {
   console.log(artSubjects, generalSubjects);
