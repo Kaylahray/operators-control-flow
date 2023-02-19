@@ -1,4 +1,4 @@
-# Question 1: List the symbols for each of the below JavaScript operators
+# Question 1: List the symbols for each of the below JavaScript operators.
 
 **a. Arithmetic Operators**
 
@@ -62,7 +62,7 @@ console.log(x >= y); // output to console is false because x is not greater or e
 //  Using the strict equality operator ( === ).
 let c = 5;
 let d = "5";
-console.log(c === d); //output to the console is false because meanwhile having the same values they have different datatypes.
+console.log(c === d); //output to the console is false because meanwhile having the same values, they have different datatypes.
 ```
 
 **Example of logical operators**

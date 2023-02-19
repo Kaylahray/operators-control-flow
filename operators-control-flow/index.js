@@ -2,7 +2,7 @@
 let classGroup = "Arts";
 let scienceSubjects = "physics, Chemistry, biology, Technical Drawing,";
 let socialScienceSubjects = "Accounting, Commerce, Marketing, Geography,";
-let artsSubjects = " Government, Economics, Literature, History,";
+let artSubjects = " Government, Economics, Literature, History,";
 let generalSubjects = "English, Mathematics.";
 
 if (classGroup === "science") {
@@ -10,7 +10,7 @@ if (classGroup === "science") {
 } else if (classGroup === "social") {
   console.log(socialScienceSubjects, generalSubjects);
 } else if (classGroup === "Arts") {
-  console.log(artsSubjects, generalSubjects);
+  console.log(artSubjects, generalSubjects);
 } else {
   console.log(generalSubjects);
 }
