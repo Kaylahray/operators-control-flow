@@ -2,15 +2,15 @@
 
 **a. Arithmetic Operators**
 
-- +, /, %, -, \*, \*\*.
+- +, /, %, -, \*, \*\* .
 
 **b. Assignment Operators**
 
-- =, +=, -=, \*=, /=, %=, ++, --.\
+- =, +=, -=, \*=, /=, %=, ++, -- .
 
 **c. Comparison Operators**
 
-- <, >, <=, >=, ==, ===, !==, !=.
+- <, >, <=, >=, ==, ===, !==, != .
 
 **d. Logical Operators**
 
@@ -20,7 +20,7 @@
 
 **e. Bitwise Operators**
 
-- &, |, ~, ^, <<, >>.
+- &, |, ~, ^, <<, >> .
 
 # Question 2: For each javascript operator, write two (2) examples.
 
